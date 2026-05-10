@@ -1,0 +1,301 @@
+Date,Category,Amount,Payment_Method,Description
+2025-11-11,Miscellaneous,418.68,UPI,Simulated expense
+2025-11-11,Housing,259.63,Debit Card,Simulated expense
+2025-11-11,Transportation,328.63,UPI,Simulated expense
+2025-11-12,Housing,289.47,Credit Card,Simulated expense
+2025-11-12,Transportation,12.05,Bank Transfer,Simulated expense
+2025-11-12,Entertainment,443.13,Cash,Simulated expense
+2025-11-13,Food & Dining,346.03,Bank Transfer,Simulated expense
+2025-11-14,Transportation,217.25,Credit Card,Simulated expense
+2025-11-14,Transportation,62.83,Bank Transfer,Simulated expense
+2025-11-14,Food & Dining,204.43,Bank Transfer,Simulated expense
+2025-11-14,Shopping,372.58,Bank Transfer,Simulated expense
+2025-11-15,Transportation,445.71,UPI,Simulated expense
+2025-11-15,Shopping,134.16,Bank Transfer,Simulated expense
+2025-11-15,Transportation,7.93,Debit Card,Simulated expense
+2025-11-15,Housing,466.42,Debit Card,Simulated expense
+2025-11-15,Food & Dining,441.56,Bank Transfer,Simulated expense
+2025-11-16,Transportation,89.03,Credit Card,Simulated expense
+2025-11-16,Housing,23.79,Credit Card,Simulated expense
+2025-11-20,Transportation,473.81,Cash,Simulated expense
+2025-11-20,Transportation,402.97,Bank Transfer,Simulated expense
+2025-11-21,Food & Dining,148.34,Bank Transfer,Simulated expense
+2025-11-21,Transportation,209.69,Bank Transfer,Simulated expense
+2025-11-22,Transportation,386.71,Debit Card,Simulated expense
+2025-11-22,Education,62.3,UPI,Simulated expense
+2025-11-22,Housing,183.77,Debit Card,Simulated expense
+2025-11-23,Transportation,89.67,Debit Card,Simulated expense
+2025-11-25,Utilities,177.34,Cash,Simulated expense
+2025-11-27,Entertainment,122.68,Debit Card,Simulated expense
+2025-11-28,Food & Dining,376.47,Cash,Simulated expense
+2025-11-28,Transportation,19.41,UPI,Simulated expense
+2025-11-28,Healthcare,341.24,Credit Card,Simulated expense
+2025-11-29,Food & Dining,8.48,Credit Card,Simulated expense
+2025-11-29,Transportation,43.6,Debit Card,Simulated expense
+2025-11-29,Food & Dining,303.56,Credit Card,Simulated expense
+2025-12-01,Food & Dining,61.81,Debit Card,Simulated expense
+2025-12-01,Entertainment,165.81,Debit Card,Simulated expense
+2025-12-01,Shopping,358.8,Debit Card,Simulated expense
+2025-12-01,Shopping,494.13,Credit Card,Simulated expense
+2025-12-02,Food & Dining,111.56,UPI,Simulated expense
+2025-12-02,Transportation,286.02,Cash,Simulated expense
+2025-12-02,Food & Dining,102.38,Bank Transfer,Simulated expense
+2025-12-03,Transportation,499.78,Bank Transfer,Simulated expense
+2025-12-03,Food & Dining,257.25,Cash,Simulated expense
+2025-12-03,Transportation,55.84,Cash,Simulated expense
+2025-12-04,Transportation,227.53,Cash,Simulated expense
+2025-12-06,Education,162.47,UPI,Simulated expense
+2025-12-06,Food & Dining,355.41,Bank Transfer,Simulated expense
+2025-12-06,Food & Dining,76.8,Bank Transfer,Simulated expense
+2025-12-10,Shopping,126.63,Bank Transfer,Simulated expense
+2025-12-11,Housing,494.71,Bank Transfer,Simulated expense
+2025-12-12,Entertainment,59.32,Debit Card,Simulated expense
+2025-12-12,Shopping,379.18,UPI,Simulated expense
+2025-12-13,Shopping,79.35,Bank Transfer,Simulated expense
+2025-12-13,Shopping,408.62,Debit Card,Simulated expense
+2025-12-13,Housing,321.12,Credit Card,Simulated expense
+2025-12-14,Shopping,256.65,Debit Card,Simulated expense
+2025-12-14,Entertainment,61.22,Cash,Simulated expense
+2025-12-15,Entertainment,454.78,UPI,Simulated expense
+2025-12-15,Food & Dining,448.15,Cash,Simulated expense
+2025-12-15,Food & Dining,298.43,Credit Card,Simulated expense
+2025-12-17,Shopping,142.07,UPI,Simulated expense
+2025-12-18,Food & Dining,326.89,Cash,Simulated expense
+2025-12-20,Housing,396.89,UPI,Simulated expense
+2025-12-22,Food & Dining,491.03,Bank Transfer,Simulated expense
+2025-12-24,Transportation,70.61,Bank Transfer,Simulated expense
+2025-12-24,Utilities,141.96,Bank Transfer,Simulated expense
+2025-12-24,Shopping,55.68,Bank Transfer,Simulated expense
+2025-12-24,Transportation,185.58,Bank Transfer,Simulated expense
+2025-12-25,Shopping,46.22,Debit Card,Simulated expense
+2025-12-25,Healthcare,477.77,Bank Transfer,Simulated expense
+2025-12-26,Shopping,316.44,Credit Card,Simulated expense
+2025-12-27,Transportation,487.49,UPI,Simulated expense
+2025-12-27,Housing,196.38,Credit Card,Simulated expense
+2025-12-28,Food & Dining,156.78,Credit Card,Simulated expense
+2025-12-29,Transportation,114.6,Bank Transfer,Simulated expense
+2025-12-29,Transportation,299.59,Credit Card,Simulated expense
+2025-12-30,Education,178.15,Credit Card,Simulated expense
+2025-12-31,Transportation,117.48,Bank Transfer,Simulated expense
+2025-12-31,Housing,35.23,Credit Card,Simulated expense
+2026-01-01,Food & Dining,258.32,Credit Card,Simulated expense
+2026-01-01,Housing,165.75,UPI,Simulated expense
+2026-01-01,Housing,484.68,Debit Card,Simulated expense
+2026-01-03,Transportation,134.34,Debit Card,Simulated expense
+2026-01-03,Food & Dining,139.01,Credit Card,Simulated expense
+2026-01-03,Entertainment,352.38,Cash,Simulated expense
+2026-01-03,Food & Dining,29.6,Cash,Simulated expense
+2026-01-04,Entertainment,188.12,Bank Transfer,Simulated expense
+2026-01-04,Food & Dining,429.68,Debit Card,Simulated expense
+2026-01-05,Shopping,106.99,UPI,Simulated expense
+2026-01-06,Transportation,43.34,Cash,Simulated expense
+2026-01-07,Housing,457.33,UPI,Simulated expense
+2026-01-07,Shopping,314.73,Bank Transfer,Simulated expense
+2026-01-08,Food & Dining,301.14,Credit Card,Simulated expense
+2026-01-08,Housing,441.66,Bank Transfer,Simulated expense
+2026-01-08,Entertainment,353.33,Credit Card,Simulated expense
+2026-01-08,Housing,99.76,Bank Transfer,Simulated expense
+2026-01-09,Housing,9.44,Debit Card,Simulated expense
+2026-01-11,Housing,39.98,UPI,Simulated expense
+2026-01-11,Healthcare,10.7,Bank Transfer,Simulated expense
+2026-01-11,Housing,80.92,Debit Card,Simulated expense
+2026-01-13,Food & Dining,289.76,UPI,Simulated expense
+2026-01-13,Housing,412.75,Bank Transfer,Simulated expense
+2026-01-14,Food & Dining,354.86,Debit Card,Simulated expense
+2026-01-14,Housing,337.94,UPI,Simulated expense
+2026-01-15,Food & Dining,468.34,Debit Card,Simulated expense
+2026-01-15,Housing,476.18,Cash,Simulated expense
+2026-01-16,Food & Dining,270.55,Cash,Simulated expense
+2026-01-17,Housing,120.86,Debit Card,Simulated expense
+2026-01-17,Food & Dining,254.62,Cash,Simulated expense
+2026-01-18,Food & Dining,88.46,Cash,Simulated expense
+2026-01-19,Entertainment,139.19,Credit Card,Simulated expense
+2026-01-19,Food & Dining,121.51,Bank Transfer,Simulated expense
+2026-01-21,Housing,29.78,Bank Transfer,Simulated expense
+2026-01-21,Entertainment,102.9,Credit Card,Simulated expense
+2026-01-22,Food & Dining,85.68,Debit Card,Simulated expense
+2026-01-23,Food & Dining,373.99,Debit Card,Simulated expense
+2026-01-24,Housing,373.95,Cash,Simulated expense
+2026-01-24,Shopping,192.23,Credit Card,Simulated expense
+2026-01-25,Food & Dining,464.37,Debit Card,Simulated expense
+2026-01-25,Transportation,85.46,Bank Transfer,Simulated expense
+2026-01-26,Entertainment,251.6,Bank Transfer,Simulated expense
+2026-01-26,Housing,344.38,Credit Card,Simulated expense
+2026-01-27,Utilities,422.82,Credit Card,Simulated expense
+2026-01-27,Food & Dining,36.58,Debit Card,Simulated expense
+2026-01-27,Housing,52.81,Credit Card,Simulated expense
+2026-01-29,Entertainment,58.08,Cash,Simulated expense
+2026-01-29,Transportation,93.32,Bank Transfer,Simulated expense
+2026-01-29,Shopping,311.1,Cash,Simulated expense
+2026-01-30,Food & Dining,159.15,Credit Card,Simulated expense
+2026-01-30,Food & Dining,425.02,Debit Card,Simulated expense
+2026-01-30,Healthcare,226.31,UPI,Simulated expense
+2026-01-30,Housing,231.77,UPI,Simulated expense
+2026-01-31,Transportation,116.89,Debit Card,Simulated expense
+2026-02-02,Shopping,104.32,Debit Card,Simulated expense
+2026-02-03,Transportation,346.73,Credit Card,Simulated expense
+2026-02-03,Transportation,44.17,Bank Transfer,Simulated expense
+2026-02-04,Housing,432.39,Bank Transfer,Simulated expense
+2026-02-04,Transportation,333.11,Credit Card,Simulated expense
+2026-02-04,Shopping,52.61,Cash,Simulated expense
+2026-02-05,Food & Dining,408.83,Cash,Simulated expense
+2026-02-06,Utilities,193.1,UPI,Simulated expense
+2026-02-06,Housing,123.15,Credit Card,Simulated expense
+2026-02-07,Housing,46.33,Bank Transfer,Simulated expense
+2026-02-07,Food & Dining,382.45,Credit Card,Simulated expense
+2026-02-07,Food & Dining,366.33,UPI,Simulated expense
+2026-02-07,Housing,316.83,Cash,Simulated expense
+2026-02-08,Transportation,17.6,Debit Card,Simulated expense
+2026-02-10,Healthcare,201.74,Bank Transfer,Simulated expense
+2026-02-11,Food & Dining,206.17,Credit Card,Simulated expense
+2026-02-12,Utilities,344.11,Cash,Simulated expense
+2026-02-12,Housing,229.77,UPI,Simulated expense
+2026-02-13,Shopping,55.24,Debit Card,Simulated expense
+2026-02-13,Food & Dining,18.13,Bank Transfer,Simulated expense
+2026-02-13,Shopping,155.79,Debit Card,Simulated expense
+2026-02-14,Education,109.73,Bank Transfer,Simulated expense
+2026-02-14,Transportation,375.31,Cash,Simulated expense
+2026-02-14,Shopping,74.02,UPI,Simulated expense
+2026-02-16,Shopping,331.66,Bank Transfer,Simulated expense
+2026-02-16,Housing,23.83,Bank Transfer,Simulated expense
+2026-02-17,Food & Dining,125.26,Bank Transfer,Simulated expense
+2026-02-17,Food & Dining,349.03,Debit Card,Simulated expense
+2026-02-17,Healthcare,278.9,Cash,Simulated expense
+2026-02-20,Food & Dining,399.68,Debit Card,Simulated expense
+2026-02-20,Food & Dining,394.21,Debit Card,Simulated expense
+2026-02-22,Food & Dining,287.06,Cash,Simulated expense
+2026-02-25,Education,15.57,Credit Card,Simulated expense
+2026-02-26,Shopping,225.48,Debit Card,Simulated expense
+2026-02-26,Food & Dining,486.09,Bank Transfer,Simulated expense
+2026-02-26,Food & Dining,342.83,Credit Card,Simulated expense
+2026-02-26,Housing,433.61,UPI,Simulated expense
+2026-02-26,Housing,107.5,Debit Card,Simulated expense
+2026-02-26,Food & Dining,7.95,Debit Card,Simulated expense
+2026-02-27,Shopping,278.96,UPI,Simulated expense
+2026-02-27,Housing,429.4,Cash,Simulated expense
+2026-02-27,Entertainment,210.44,Bank Transfer,Simulated expense
+2026-02-28,Housing,307.36,Cash,Simulated expense
+2026-02-28,Education,335.17,Credit Card,Simulated expense
+2026-02-28,Utilities,340.21,UPI,Simulated expense
+2026-03-01,Housing,193.89,Cash,Simulated expense
+2026-03-01,Transportation,417.21,UPI,Simulated expense
+2026-03-02,Entertainment,12.98,UPI,Simulated expense
+2026-03-03,Transportation,180.6,Credit Card,Simulated expense
+2026-03-04,Food & Dining,422.71,Credit Card,Simulated expense
+2026-03-04,Food & Dining,32.61,Bank Transfer,Simulated expense
+2026-03-04,Utilities,259.66,Debit Card,Simulated expense
+2026-03-05,Food & Dining,111.89,Debit Card,Simulated expense
+2026-03-05,Utilities,107.73,Debit Card,Simulated expense
+2026-03-05,Food & Dining,165.03,Cash,Simulated expense
+2026-03-05,Housing,116.34,Cash,Simulated expense
+2026-03-05,Transportation,378.72,UPI,Simulated expense
+2026-03-06,Food & Dining,475.66,Credit Card,Simulated expense
+2026-03-06,Shopping,124.12,Debit Card,Simulated expense
+2026-03-06,Food & Dining,307.6,Bank Transfer,Simulated expense
+2026-03-08,Shopping,369.9,Cash,Simulated expense
+2026-03-08,Transportation,313.94,UPI,Simulated expense
+2026-03-08,Healthcare,248.29,Debit Card,Simulated expense
+2026-03-09,Housing,95.21,Bank Transfer,Simulated expense
+2026-03-10,Housing,496.4,Bank Transfer,Simulated expense
+2026-03-11,Transportation,350.83,Bank Transfer,Simulated expense
+2026-03-13,Food & Dining,30.66,UPI,Simulated expense
+2026-03-14,Food & Dining,42.18,Debit Card,Simulated expense
+2026-03-14,Utilities,417.95,UPI,Simulated expense
+2026-03-14,Housing,355.32,Bank Transfer,Simulated expense
+2026-03-15,Miscellaneous,274.27,UPI,Simulated expense
+2026-03-15,Transportation,346.88,Cash,Simulated expense
+2026-03-16,Housing,312.55,Debit Card,Simulated expense
+2026-03-16,Entertainment,339.03,UPI,Simulated expense
+2026-03-17,Food & Dining,434.9,Debit Card,Simulated expense
+2026-03-17,Utilities,451.91,Credit Card,Simulated expense
+2026-03-17,Shopping,385.94,Bank Transfer,Simulated expense
+2026-03-18,Housing,168.92,Debit Card,Simulated expense
+2026-03-18,Entertainment,245.07,UPI,Simulated expense
+2026-03-18,Shopping,376.15,Credit Card,Simulated expense
+2026-03-19,Shopping,38.91,Cash,Simulated expense
+2026-03-19,Shopping,269.19,Debit Card,Simulated expense
+2026-03-21,Utilities,269.0,Debit Card,Simulated expense
+2026-03-22,Transportation,433.29,Bank Transfer,Simulated expense
+2026-03-22,Food & Dining,145.71,UPI,Simulated expense
+2026-03-24,Transportation,124.71,Credit Card,Simulated expense
+2026-03-24,Food & Dining,117.99,Bank Transfer,Simulated expense
+2026-03-24,Food & Dining,447.88,Bank Transfer,Simulated expense
+2026-03-25,Food & Dining,92.6,UPI,Simulated expense
+2026-03-25,Utilities,174.86,Credit Card,Simulated expense
+2026-03-26,Utilities,54.58,UPI,Simulated expense
+2026-03-26,Food & Dining,74.26,Credit Card,Simulated expense
+2026-03-26,Housing,71.25,UPI,Simulated expense
+2026-03-27,Entertainment,262.81,UPI,Simulated expense
+2026-03-27,Housing,260.88,Cash,Simulated expense
+2026-03-29,Housing,146.84,Cash,Simulated expense
+2026-03-29,Housing,352.04,Debit Card,Simulated expense
+2026-03-30,Food & Dining,385.81,Credit Card,Simulated expense
+2026-03-30,Food & Dining,78.55,Cash,Simulated expense
+2026-03-30,Entertainment,151.01,Cash,Simulated expense
+2026-03-31,Shopping,80.8,Debit Card,Simulated expense
+2026-03-31,Shopping,472.19,Cash,Simulated expense
+2026-04-01,Entertainment,209.82,Bank Transfer,Simulated expense
+2026-04-01,Housing,346.12,Credit Card,Simulated expense
+2026-04-01,Healthcare,287.69,UPI,Simulated expense
+2026-04-02,Food & Dining,259.16,Debit Card,Simulated expense
+2026-04-02,Shopping,41.23,Bank Transfer,Simulated expense
+2026-04-03,Entertainment,10.9,Credit Card,Simulated expense
+2026-04-03,Education,177.11,Cash,Simulated expense
+2026-04-05,Healthcare,241.81,Bank Transfer,Simulated expense
+2026-04-05,Food & Dining,237.82,UPI,Simulated expense
+2026-04-06,Food & Dining,323.17,Cash,Simulated expense
+2026-04-06,Miscellaneous,484.06,Credit Card,Simulated expense
+2026-04-08,Housing,269.15,UPI,Simulated expense
+2026-04-08,Housing,97.93,Bank Transfer,Simulated expense
+2026-04-09,Food & Dining,78.86,Bank Transfer,Simulated expense
+2026-04-09,Shopping,432.32,Credit Card,Simulated expense
+2026-04-10,Healthcare,215.19,Debit Card,Simulated expense
+2026-04-11,Shopping,126.53,UPI,Simulated expense
+2026-04-11,Food & Dining,133.08,Credit Card,Simulated expense
+2026-04-12,Entertainment,369.15,Credit Card,Simulated expense
+2026-04-12,Housing,197.94,Cash,Simulated expense
+2026-04-13,Entertainment,127.52,Cash,Simulated expense
+2026-04-13,Transportation,79.08,Debit Card,Simulated expense
+2026-04-14,Housing,224.42,UPI,Simulated expense
+2026-04-14,Food & Dining,270.19,Debit Card,Simulated expense
+2026-04-14,Food & Dining,411.94,UPI,Simulated expense
+2026-04-15,Healthcare,376.5,UPI,Simulated expense
+2026-04-16,Shopping,420.57,UPI,Simulated expense
+2026-04-16,Shopping,94.71,Bank Transfer,Simulated expense
+2026-04-17,Food & Dining,13.07,Cash,Simulated expense
+2026-04-17,Food & Dining,261.35,Cash,Simulated expense
+2026-04-17,Housing,100.99,Cash,Simulated expense
+2026-04-18,Food & Dining,246.33,Credit Card,Simulated expense
+2026-04-19,Transportation,50.34,Credit Card,Simulated expense
+2026-04-21,Food & Dining,440.84,Debit Card,Simulated expense
+2026-04-21,Utilities,343.9,Debit Card,Simulated expense
+2026-04-22,Entertainment,363.79,Cash,Simulated expense
+2026-04-22,Food & Dining,12.0,UPI,Simulated expense
+2026-04-22,Entertainment,256.57,Cash,Simulated expense
+2026-04-23,Shopping,57.57,Credit Card,Simulated expense
+2026-04-23,Utilities,160.55,Debit Card,Simulated expense
+2026-04-26,Food & Dining,283.5,Cash,Simulated expense
+2026-04-26,Transportation,391.25,UPI,Simulated expense
+2026-04-26,Housing,43.39,Cash,Simulated expense
+2026-04-26,Transportation,283.55,Bank Transfer,Simulated expense
+2026-04-27,Entertainment,448.58,UPI,Simulated expense
+2026-04-27,Transportation,403.21,Bank Transfer,Simulated expense
+2026-04-28,Education,351.72,Credit Card,Simulated expense
+2026-04-28,Food & Dining,200.24,Debit Card,Simulated expense
+2026-04-28,Housing,219.98,Debit Card,Simulated expense
+2026-04-29,Shopping,435.6,Cash,Simulated expense
+2026-04-29,Utilities,321.09,Debit Card,Simulated expense
+2026-04-29,Housing,44.33,Cash,Simulated expense
+2026-04-29,Housing,49.84,Bank Transfer,Simulated expense
+2026-04-30,Utilities,141.65,Bank Transfer,Simulated expense
+2026-04-30,Healthcare,62.6,Cash,Simulated expense
+2026-04-30,Food & Dining,344.96,Credit Card,Simulated expense
+2026-05-01,Transportation,275.93,Credit Card,Simulated expense
+2026-05-01,Shopping,382.78,UPI,Simulated expense
+2026-05-01,Housing,208.26,Credit Card,Simulated expense
+2026-05-02,Entertainment,412.4,Cash,Simulated expense
+2026-05-02,Housing,123.66,Bank Transfer,Simulated expense
+2026-05-05,Housing,465.31,Cash,Simulated expense
+2026-05-08,Shopping,231.6,UPI,Simulated expense
+2026-05-08,Entertainment,403.53,Cash,Simulated expense
+2026-05-09,Miscellaneous,254.85,Bank Transfer,Simulated expense
